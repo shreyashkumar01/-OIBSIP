@@ -28,7 +28,7 @@ It's a classic multi-class classification problem.
 
 *Files:*
 * IrisFlower.ipynb (Jupyter Notebook for the solution)
-
+* IrisFlower.csv
 ---
 
 ## Task 2: Unemployment Analysis with Python
@@ -47,8 +47,7 @@ The project highlights the analysis of a sharp increase in unemployment rate dur
 
 *Files:*
 * Unemployment_Analysis.ipynb (Jupyter Notebook for the solution)
-* Unemployment_in_India.csv (Dataset file - please ensure this file is present in the repository or provide download instructions)
-
+* Unemployment in India.csv
 ---
 
 ## Task 3: Car Price Prediction with Machine Learning
@@ -67,7 +66,7 @@ The project highlights the analysis of a sharp increase in unemployment rate dur
 
 *Files:*
 * Car_Price_Prediction.ipynb (Jupyter Notebook for the solution)
-* CarPrice_Assignment.csv (Dataset file - please ensure this file is present in the repository or provide download instructions)
+* CarPricePrediction.csv 
 
 ---
 
@@ -86,7 +85,7 @@ The project highlights the analysis of a sharp increase in unemployment rate dur
 
 *Files:*
 * Spam_Detection.ipynb (Jupyter Notebook for the solution)
-* spam.csv (Dataset file - please ensure this file is present in the repository or provide download instructions)
+* Spam.csv
 
 ---
 
@@ -105,6 +104,5 @@ The project highlights the analysis of a sharp increase in unemployment rate dur
 
 *Files:*
 * Sales_Prediction.ipynb (Jupyter Notebook for the solution)
-* advertising.csv (Dataset file - please ensure this file is present in the repository or provide download instructions; exact name may vary)
-
+* SalesPrediction.csv 
 ---
